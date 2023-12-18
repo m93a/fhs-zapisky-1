@@ -105,3 +105,53 @@
     * https://kunsthallebratislava.sk/publikacia/wandering-concepts-putujuce-koncepty/
   
   * ÚKOL: přečíst bell hooks, _Feminist Theory: From Margin to Center_
+
+
+# Esej
+
+Struktura eseje:
+  * úvod
+    * má „hook“, kterým se snaží zaujmout (citát, přirovnání, otázka)
+    * uvádí čtenáře do článku, představuje téma
+  * teze eseje
+    * jedno velmi konkrétní, falsifikovatelné tvrzení týkající se tématu
+  * hlavní myšlenky
+    * jedna per odstavec
+    * argumentativní, přesvědčující – snažím se přesvědčit čenáře o tezi
+    * každý odstavec je „uzavřený“, na konci každého odstavce je shrnutí myšlenky
+  * závěr
+    * shrnuje esej
+
+Instrukce:
+1. napište si osnovu
+2. přesvědčte čtenáře, že váš argument/teze jsou důležité
+3. angažujdte se v textu
+  * vyhnout se hodnotícím tvrzením
+    * všechno, co píšu, by mělo být něčím podložené
+    * tj. <b>ne</b>psat „slavný umělec“, „nejznámější dílo“
+    * nemá to být vlastní názor
+4. každá prezentovaná myšlenka by měla být důležitá pro hlavní argument
+  * držet se tématu, pokud něco odbočuje od tématu, vyškrtnout
+5. esej musí mít závěr
+  * co jste odargumentovalx
+  * jaké otázky zůstávají nezodpovězené
+
+Časté chyby:
+  * nezodpovězení položené otázky – odpovídám na něco úplně jiného
+  * překročení rámce důkazů – prohlásím nějaké obecné, generalizační tvrzení, které nedokazuji (a ani nemám jak dokázat)
+  * používání zbytečně složitého jazyka, když totéž jde říct jednoduše
+  * použití příliš velkého množství přímích citací – pokud je celý text citace cizího, nezbývá tam místo pro naši vlastní práci
+  * obsahuje vlastní názory – „já si myslím, že...“
+
+Citace:
+  * https://knihovna.fsv.cuni.cz/podpora-studia-vedy/jak-proc-citovat
+  * můžeme si vybrat jaký citační standard chceme
+  * není třeba citovat fakta, která jsou všeobecně známá a snadno dohledatelná
+
+Zadání:
+  * napište esej v rozsahu 3 normostrany ± 10 %
+  * dílo vytvořené po roku 1990
+  * s odkazem na téma jedné z přednášek
+  * citovat alespoň jeden text z přednášek (viz Google Drive)
+  * deadline: 19. ledna (do půlnoci)
+  * poslat na mail, předmět: „ESEJ_Súčasné umenie“
