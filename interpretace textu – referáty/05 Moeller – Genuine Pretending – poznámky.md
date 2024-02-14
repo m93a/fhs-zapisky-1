@@ -28,6 +28,9 @@
     * nabízí se „profilicita“, „profilovost“, ani jedno se v české literatuře zatím nevyskytuje – NÁRODNÍ KNIHOVNA ČR. Souborný katalog ČR. Online. Dostupné z: https://www.caslin.cz/. [cit. 2024-01-30].
     * volíme koncovku „-ost“ zrcadlící konzistentní použití koncovky „-ity“ v angličtině
 
+
+* Konfuciánskou frázi „inner sageliness and outward kingliness“ (nei sheng wai wang 內聖外王) překládám jako „světectví uvnitř a královskost navenek“, po vzoru: VÁVRA, Dušan. _Konfucianismus v období dynastií Han, Wei a Západních Jin._ Dizertační práce. Brno: Masarykova univerzita, Filozofická fakulta, 2009.
+
 ## In-progress formulace myšlenek
 
 * performativita
@@ -86,3 +89,9 @@
      * morální požadavky, které konfuciánství pokládá, jsou nemožné naplnit
      * na západě bylo Zhuangzi interpretováno skrz optiku heideggerovské autenticity (v našem překladu opravdovosti), 
      * podle Moellera a D'Ambrosia Zhuangzi „dekonstruuje a podrývá paradigma počestnosti, mj. skrze humor. Nevolá po ‚lepší verzi‘ počestnosti, místo toho nabádá čtenáře, aby se oprostili od jejích idealizací a uvědomili si její omyly a nedostatky“.
+
+
+ * genuine pretending jako daoistická maxima
+   * „Nevolá po ‚lepší verzi‘ počestnosti, místo toho nabádá čtenáře, aby se oprostili od jejích idealizací a uvědomili si její omyly a nedostatky“.
+   * Nesnaží se ani vybudovat novou morálku, místo toho konfuciánskou morálku dekonstruuje skrze vesměs anti-morální kritiku, a s notnou dávkou humoru.
+
